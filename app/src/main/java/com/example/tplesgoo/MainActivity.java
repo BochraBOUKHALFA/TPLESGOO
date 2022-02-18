@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
        float some2=0 , some3 = 0;
         if (fille == 1) {
             double some1 = some / 2;
-           resultat.setText("son heritage est " + some1);
+           resultat.setText("la fille herite " + some1);
 
         } else {
             if (fille > 1 && garcon == 0) {
